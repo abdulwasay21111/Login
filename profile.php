@@ -16,4 +16,4 @@ echo (isset($_SESSION["enteredUser"])) ? $_SESSION['enteredUser'] : "";
 ?>
 
 </h1>
-<a href="login_form.php">Logout</a>
+<a href="Logout.php">Logout</a>
